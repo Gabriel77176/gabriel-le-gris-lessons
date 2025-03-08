@@ -121,4 +121,5 @@ function PrototypeMessage({children}) {
     );
 }
 
-export { HelpMessage, AllowedMessage, ForbiddenMessage, WarningMessage, TestMessage, HistoryMessage, PrototypeMessage };
+
+export { HelpMessage, AllowedMessage, ForbiddenMessage, WarningMessage, TestMessage, HistoryMessage, PrototypeMessage};
