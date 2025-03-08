@@ -8,6 +8,7 @@ import "prismjs/components/prism-csharp";
 import "prismjs/components/prism-c";
 import "prismjs/components/prism-cpp";
 import "prismjs/components/prism-bash";
+import "prismjs/components/prism-rust";
 
 function CodeBlock({language, children}) {
     const [copied, setCopied] = useState(false);
